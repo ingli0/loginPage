@@ -14,7 +14,7 @@ include('header.php')
             <div class="upload-profile-image">
                 <div class="text-center">
                     <div class="d-flex justify-content-center">
-                        <img src="" alt="">
+                        <img class="camera-icon" src="./assets/camera-solid.svg" alt="">
                     </div>
                 </div>
             </div>
